@@ -1,0 +1,71 @@
+[
+	{
+		"id": 2,
+		"title": "Product 2",
+		"description": "Description 2",
+		"price": 200,
+		"thumbnail": "image 2",
+		"code": "0002B",
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "Product 4",
+		"description": "Description 4",
+		"price": 400,
+		"thumbnail": "image 4",
+		"code": "0004D",
+		"stock": 40
+	},
+	{
+		"id": 5,
+		"title": "Product 1",
+		"description": "Description 1",
+		"price": 100,
+		"thumbnail": "image 1",
+		"code": "0001A",
+		"stock": 10
+	},
+	{
+		"id": 6,
+		"title": "Product 2",
+		"description": "Description 2",
+		"price": 200,
+		"thumbnail": "image 2",
+		"code": "0002B",
+		"stock": 20
+	},
+	{
+		"id": 7,
+		"title": "Product 3",
+		"description": "Description 3",
+		"price": 300,
+		"thumbnail": "image 3",
+		"code": "0003C",
+		"stock": 30
+	},
+	{
+		"id": 8,
+		"title": "Product 4",
+		"description": "Description 4",
+		"price": 400,
+		"thumbnail": "image 4",
+		"code": "0004D",
+		"stock": 40
+	},
+	{
+		"id": 9,
+		"title": "Nuevo Producto",
+		"description": "Descripción del nuevo producto",
+		"price": 100,
+		"thumbnail": "ruta/a/imagen.jpg",
+		"code": "0011A",
+		"stock": 50,
+		"status": true,
+		"category": "Categoría 1",
+		"thumbnails": [
+			"ruta/a/imagen1.jpg",
+			"ruta/a/imagen2.jpg"
+		]
+	}
+]
